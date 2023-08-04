@@ -50,3 +50,4 @@ let move = ["popy" , "ronaldo"];
 let oppenheimar = move instanceof Array;
 console.log(oppenheimar);
 
+console.log();
