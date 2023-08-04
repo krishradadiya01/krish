@@ -1,2 +1,2 @@
-let a = "krish"
+let a = "sanket"
 console.log(a);
